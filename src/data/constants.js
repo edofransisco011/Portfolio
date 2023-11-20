@@ -307,7 +307,7 @@ export const projects = [
   {
     id: 3,
     title: "Employee Management App",
-    date: "Dec 2021 - Apr 2022",
+    date: "Oct 2023 - Nov 2023",
     description:
       "",
     image:
