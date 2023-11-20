@@ -330,6 +330,19 @@ export const projects = [
     github: "https://github.com/edofransisco011/EducationApp-ReactNative",
     webapp: "https://github.com/edofransisco011/EducationApp-ReactNative",
   },
+  {
+    id: 15,
+    title: "AirBnb App",
+    date: "Oct 2023 - Nov 2023",
+    description:
+      "",
+    image:
+      "https://github.com/edofransisco011/Portfolio/blob/main/public/airbnb.png?raw=true",
+    tags: ["React Native", "Expo", "Typescript", "Clerk-Auth"],
+    category: "android app",
+    github: "https://github.com/edofransisco011/Airbnb-ReactNative",
+    webapp: "https://github.com/edofransisco011/Airbnb-ReactNative",
+  },
 ];
 
 export const TimeLineData = [
