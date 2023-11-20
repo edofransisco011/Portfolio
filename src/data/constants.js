@@ -257,7 +257,7 @@ export const projects = [
     description:
       "",
     image:
-    "https://github.com/edofransisco011/Assets/blob/main/Images/threads.png?raw=true",
+    "https://github.com/edofransisco011/Portfolio/blob/main/public/threads.png?raw=true",
     tags: [
       "Typescript",
       "Clerk Auth",
@@ -279,7 +279,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://github.com/edofransisco011/Assets/blob/main/Images/ecommerce.png?raw=true",
+      "https://github.com/edofransisco011/Portfolio/blob/main/public/ecommerce.png?raw=true",
     tags: ["React Js", "Next Js", "Next-Auth", "Stripe",
     "TailwindCSS", "Framer-Motion", "Redux"],
     category: "web app",
@@ -293,7 +293,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://github.com/edofransisco011/Assets/blob/main/Images/youtube.png?raw=true",
+      "https://github.com/edofransisco011/Portfolio/blob/main/public/youtube.png?raw=true",
     tags: [
       "React Js",
       "Javascript",
@@ -311,7 +311,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://github.com/edofransisco011/Assets/blob/main/Images/mobileapp.png?raw=true",
+      "https://github.com/edofransisco011/Portfolio/blob/main/public/mobileapp.png?raw=true",
     tags: ["Expo", "Javascript", "React Native", "Express", "MongoDB",],
     category: "android app",
     github: "https://github.com/edofransisco011/EmployeeManagementApp-ReactNative",
@@ -324,7 +324,7 @@ export const projects = [
     description:
       "",
     image:
-      "https://github.com/edofransisco011/Assets/blob/main/Images/education.png?raw=true",
+      "https://github.com/edofransisco011/Portfolio/blob/main/public/education.png?raw=true",
     tags: ["React Native", "JavaScript", "Expo", "Expo-Auth", "Firebase"],
     category: "android app",
     github: "https://github.com/edofransisco011/EducationApp-ReactNative",
