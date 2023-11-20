@@ -283,8 +283,8 @@ export const projects = [
     tags: ["React Js", "Next Js", "Next-Auth", "Stripe",
     "TailwindCSS", "Framer-Motion", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    github: "https://github.com/edofransisco011/Ecommerce_Project",
+    webapp: "https://docommerce.vercel.app/",
   },
   {
     id: 1,
