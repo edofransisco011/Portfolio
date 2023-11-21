@@ -185,7 +185,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/D4D0BAQFSEbmwaeNAUw/company-logo_200_200/0/1683928977056/liberoprofessionista_logo?e=1708560000&v=beta&t=K8LlauUIUjhHMuxyP8GV9nWV-lVaz85ncrcfnby_zLc",
+    img: "https://media.licdn.com/dms/image/C4D0BAQFHz9agyy675A/company-logo_100_100/0/1635337455615/fiverr_com_logo?e=1708560000&v=beta&t=7S4kGhH2jDdGioA0p9UWSbTCP5YuVTN3_6Mz1Hf69Is",
     role: "Web Developer Freelance",
     company: "Freelance",
     date: "June 2023 - Present",
